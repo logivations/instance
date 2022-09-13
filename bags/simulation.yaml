@@ -1,0 +1,8 @@
+/**:
+  rosbag_recorder:
+    ros__parameters:
+      topics: # Without leading slash (/) if it is to be prepended with namespace
+        [
+          "global_costmap/costmap",
+          "global_plan",
+        ]
