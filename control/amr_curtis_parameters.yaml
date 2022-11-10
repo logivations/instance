@@ -1,0 +1,5 @@
+# Parameters for the curtis controller
+/**:
+  f2a_parameters_manager:
+    ros__parameters:
+      f2a.lift_check_threshold: 200
