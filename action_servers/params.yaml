@@ -1,0 +1,4 @@
+/**:
+  pallet_transportation_action_servers:
+    ros__parameters:
+      goal_offset_y: 0.02 # Positive is to the right, when looking from AMR towards platform
