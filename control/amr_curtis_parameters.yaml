@@ -1,0 +1,42 @@
+# Parameters for the curtis controller
+/**:
+  f2a_parameters_manager:
+    ros__parameters:
+      f2a.shutoff_full_voltage: 500
+      f2a.lift_motor_switch_max: 30
+      f2a.lift_motor_duration_max: 450
+      f2a.lift_motor_duration_measure_time: 300
+      f2a.lift_check_threshold: 50
+      f2a.pickup_drive_current_limit: 55
+      f2a.default_drive_current_limit: 96
+      f2a.lift_threshold_release: 20
+      f2a.test_hydraulics_voltage: 25
+      f2a.lift_scanner_threshold: 740
+      f2a.lift_threshold_lift: 50
+      f2a.test_var: 0
+      f2a.lift_want_intern: 5
+      f2a.system_start: 0
+      f2a.standby_now: 2
+      f2a.lift_voltage_top: 150
+      f2a.lift_voltage_ground: 980
+      f2a.Par_FlexiSoftGW_Node_ID: 53
+      f2a.K_V_Mult: 0
+      f2a.test_hydraulics_duration: 2000
+      f2a.Battery_SOC_duration: 2000
+      f2a.release_duration: 7000
+      f2a.lift_duration: 12000
+      f2a.use_lifting: 1
+      f2a.Par_PLC_PDO2_checks: 0
+      f2a.PAR_Display1_Node_ID: 113
+      f2a.reconfig_required: 0
+      f2a.Par_1222_Turned_Speed: 8000
+      f2a.Par_1222_Steer_Angle_Max: 32700
+      f2a.Par_1222_Steer_Deadband: 10000
+      f2a.Par_Traction_Max_Speed: 2000
+      f2a.Par_Vehicle_Type: 1
+      f2a.Par_1222_Node_ID: 2
+      f2a.Main_Driver_Battery_Voltage_Compensated: 1
+  c_1222_parameters_manager:
+    ros__parameters:
+      c_1222.dummy: 0
+
