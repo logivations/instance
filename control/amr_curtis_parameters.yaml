@@ -9,15 +9,15 @@
       f2a.lift_check_threshold: 50
       f2a.pickup_drive_current_limit: 55
       f2a.default_drive_current_limit: 96
-      f2a.lift_threshold_release: 20
+      f2a.lift_threshold_release: 10
       f2a.test_hydraulics_voltage: 25
-      f2a.lift_scanner_threshold: 764
-      f2a.lift_threshold_lift: 50
+      f2a.lift_scanner_threshold: 720
+      f2a.lift_threshold_lift: 25
       f2a.test_var: 0
       f2a.lift_want_intern: 5
       f2a.system_start: 0
       f2a.standby_now: 2
-      f2a.lift_voltage_top: 150
+      f2a.lift_voltage_top: 400
       f2a.lift_voltage_ground: 980
       f2a.Par_FlexiSoftGW_Node_ID: 53
       f2a.K_V_Mult: 0
