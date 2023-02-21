@@ -6,4 +6,4 @@
       f2a.lift_scanner_threshold: 644
       f2a.lift_threshold_lift: 25
       f2a.lift_voltage_top: 100
-
+      f2a.lift_voltage_ground: 870
