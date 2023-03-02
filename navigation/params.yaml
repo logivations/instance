@@ -1,0 +1,5 @@
+ /**:
+  controller_server:
+    ros__parameters:
+      LaneFollowPath:
+        weight_viapoint: 0.05
