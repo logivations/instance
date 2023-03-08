@@ -1,0 +1,4 @@
+/**:
+  pallet_transportation_action_servers:
+    ros__parameters:
+      platform_approach_goal_offset: 1.4
