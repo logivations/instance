@@ -2,4 +2,4 @@
 /**:
   f2a_parameters_manager:
     ros__parameters:
-      f2a.lift_check_threshold: 200
+      f2a.lift_check_threshold: 2000
