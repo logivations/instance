@@ -1,0 +1,5 @@
+max_speed_rps: 7.5 # max speed in rps (rotations per second = angular veloctiy)
+max_fork_height: 0.3
+max_fork_height_voltage: 930 # When the fork is lowest
+min_fork_height_voltage: 120 # When the fork is highest
+
