@@ -1,4 +1,4 @@
 /**:
   pallet_transportation_action_servers:
     ros__parameters:
-      sideways_amr_custom_offset: 0.03 # Positive is to the right, when looking from AMR towards platform
+      sideways_amr_custom_offset: 0.01 # Positive is to the right, when looking from AMR towards platform
