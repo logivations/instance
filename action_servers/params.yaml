@@ -1,0 +1,5 @@
+/**:
+  pallet_transportation_action_servers:
+    ros__parameters:
+      pallet_goal_angular_offset: 0.0 # adjustment for pallet goal from pallet locator. Positive is counterclockwise
+      pallet_goal_side_offset: 0.0 # adjustment for pallet goal from pallet locator. Positive is to the left
