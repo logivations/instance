@@ -3,4 +3,4 @@
   f2a_parameters_manager:
     ros__parameters:
       f2a.lift_check_threshold: 2000
-      f2a.pickup_drive_current_limit: 42
+      f2a.pickup_drive_current_limit: 45
