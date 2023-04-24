@@ -2,4 +2,3 @@
   plane_clipper:
     ros__parameters:
       planes: [1.0, 0.0, 0.0, -1.62, -0.015, 0.0, 1.015, -0.04] # Last plane is rotated to filter out the floor. https://lvserv01.logivations.com/browse/AMRNAV-4605
-      set_plane_negative: [False, False]
