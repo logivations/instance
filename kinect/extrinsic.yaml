@@ -1,7 +1,9 @@
 kinect:
-  x: 0.0
+  x: 0.001837
   y: 0.0
-  z: 0.0
+  z: -0.004207
   roll: 0.0
-  pitch: 0.0
+  pitch: 0.043580
   yaw: 0.0
+  mount_height: 0.939 # 0.78 - mounted low (AMR47); 0.939 - mounted high (AMR1)
+  mount_pitch: 0.427 # 0.62 - mounted low (AMR47); 0.427 - mounted high (AMR1)
