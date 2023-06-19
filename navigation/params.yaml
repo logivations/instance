@@ -1,0 +1,16 @@
+ /**:
+   local_costmap:
+     local_costmap:
+       ros__parameters:
+           forward_lidar:
+             obstacle_max_range: 3.0
+           backward_lidar:
+             obstacle_max_range: 3.0
+
+   global_costmap:
+     global_costmap:
+       ros__parameters:
+           forward_lidar_marking:
+             obstacle_max_range: 3.0
+           backward_lidar_marking:
+             obstacle_max_range: 3.0
