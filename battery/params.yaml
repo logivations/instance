@@ -1,5 +1,5 @@
 /**:
   amr_battery:
     ros__parameters:
-      battery_controller_mac_address: "A4:C1:38:01:9B:D2"
-      battery_controller_mac_address_2: "A4:C1:38:29:2E:6D"
+      battery_controller_mac_address: "A4:C1:38:22:8C:BC"
+      battery_controller_mac_address_2: "A4:C1:38:3B:50:67"
