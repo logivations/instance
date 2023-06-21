@@ -5,14 +5,10 @@
         obstacle_layer:
           forward_lidar:
             obstacle_max_range: 3.0
-        stvl_general_layer:
-          mark_threshold: 2
-          
+
   global_costmap:
     global_costmap:
       ros__parameters:
         obstacle_layer:
           forward_lidar:
             obstacle_max_range: 3.0
-        stvl_general_layer:
-          mark_threshold: 2
