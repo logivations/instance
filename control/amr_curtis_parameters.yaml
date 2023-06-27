@@ -1,5 +1,6 @@
 # Parameters for the curtis controller
 /**:
+<<<<<<< HEAD
   f2a_parameters_manager:
     ros__parameters:
       f2a.lift_threshold_release: 10
@@ -7,3 +8,9 @@
       f2a.lift_threshold_lift: 25
       f2a.lift_voltage_top: 100
       f2a.lift_voltage_ground: 870
+=======
+  ros__parameters:
+    f2a.lift_scanner_threshold: 523
+    f2a.lift_voltage_ground: 560
+    f2a.lift_threshold_release: 10
+>>>>>>> 34f2024... auto fork calib
