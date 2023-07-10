@@ -1,0 +1,19 @@
+realsense_left:
+  x: -0.13
+  y: 0.18
+  z: 0.0010715
+  roll: 0.0
+  pitch: -0.0275
+  yaw: 3.1415926
+  yaw_offset: 0.0 # -0.01 # Calibration offset does nothing now
+  y_offset_for_pallet_locator: 0.025
+
+realsense_right:
+  x: -0.13
+  y: -0.18
+  z: 0.021071
+  roll: 3.1416
+  pitch: -0.0275
+  yaw: 3.1415926
+  yaw_offset: 0.0 # -0.02 # Calibration offset does nothing now
+  y_offset_for_pallet_locator: 0.035
