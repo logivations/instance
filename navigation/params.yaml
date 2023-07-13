@@ -1,0 +1,5 @@
+/**:
+  amr_navigate_to_pose_amr_navigate_to_pose_rclcpp_node:
+    ros__parameters:
+      MonitorDrivingIntoPallet:
+        threshold: 10000.0
