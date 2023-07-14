@@ -16,3 +16,8 @@
             obstacle_max_range: 3.0
           backward_lidar_marking:
             obstacle_max_range: 3.0
+
+  amr_navigate_to_pose_amr_navigate_to_pose_rclcpp_node:
+    ros__parameters:
+      MonitorDrivingIntoPallet:
+        threshold: 10000.0
