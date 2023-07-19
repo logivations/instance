@@ -10,5 +10,5 @@
     global_costmap:
       ros__parameters:
         obstacle_layer:
-          forward_lidar:
+          forward_lidar_marking:
             obstacle_max_range: 3.0
