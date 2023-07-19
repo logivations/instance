@@ -1,0 +1,5 @@
+/**:
+  charging_action_servers:
+    ros__parameters:
+      max_battery_soc: 60.0
+      battery_soc_to_restart_charging: 50.0
