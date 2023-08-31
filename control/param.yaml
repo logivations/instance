@@ -1,0 +1,5 @@
+/**:
+  ros__parameters:
+    max_fork_height: 0.3
+    min_fork_height_voltage: 501
+    max_fork_height_voltage: 851
