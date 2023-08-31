@@ -4,17 +4,14 @@
       ros__parameters:
         obstacle_layer:
           forward_lidar:
-            obstacle_max_range: 3.0
-          backward_lidar:
-            obstacle_max_range: 3.0
+            obstacle_max_range: 2.0
+            raytrace_max_range: 2.0
 
   global_costmap:
     global_costmap:
       ros__parameters:
         obstacle_layer:
           forward_lidar_clearing:
-            obstacle_max_range: 3.0
+            obstacle_max_range: 2.0
           forward_lidar_marking:
-            obstacle_max_range: 3.0
-          backward_lidar_marking:
-            obstacle_max_range: 3.0
+            topic: /nonsense
