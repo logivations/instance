@@ -1,10 +1,5 @@
 /**:
   f2a_parameters_manager:
     ros__parameters:
-<<<<<<< Updated upstream
       f2a.lift_scanner_threshold: 688
       f2a.lift_voltage_ground: 819
-=======
-      f2a.lift_scanner_threshold: 596
-      f2a.lift_voltage_ground: 905
->>>>>>> Stashed changes
