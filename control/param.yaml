@@ -1,5 +1,5 @@
 /**:
   ros__parameters:
     max_fork_height: 0.3 # from ground to fork bottom
-    max_fork_height_voltage: 855.0  # When the fork is lowest
-    min_fork_height_voltage: 501.6  # When the fork is highest
+    max_fork_height_voltage: 843    # When the fork is lowest
+    min_fork_height_voltage: 493    # When the fork is highest
