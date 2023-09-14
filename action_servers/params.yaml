@@ -5,3 +5,7 @@
     ros__parameters:
       pallet_goal_angular_offset: -0.01 # adjustment for pallet goal from pallet locator. Positive is counterclockwise
       pallet_goal_side_offset: -0.03 # adjustment for pallet goal from pallet locator. Positive is to the left
+
+  charging_service_servers:
+    ros__parameters:
+      cell_overvoltage_threshold: 1000000.0
