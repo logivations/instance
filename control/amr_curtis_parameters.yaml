@@ -1,6 +1,6 @@
 /**:
   f2a_parameters_manager:
     ros__parameters:
-      f2a.lift_scanner_threshold: 679
+      f2a.lift_scanner_threshold: 655
       f2a.lift_voltage_ground: 808
       f2a.lift_threshold_release: 10
