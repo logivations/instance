@@ -1,0 +1,6 @@
+/**:
+  ros__parameters:
+    pallet_detector_model: pallet_detector_brummer_5
+    upside_down_left: False
+    upside_down_right: True
+

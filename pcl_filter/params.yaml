@@ -1,0 +1,9 @@
+# We cannot load a list of lists as a parameter, so instead we put all the planes in the same list
+# with an implicit seperation. They will be seperated in the code
+# plane: [a1, b1, c1, d1, a2, b2, c2, d2,...] where ax+by+cz+d=0 (equation of a plane)
+plane_clipper:
+  ros__parameters:
+    frame: "base_link" # frame of reference for the plane. The pointcloud is transformed to this frame.
+    # plane  0.0, 0.0, 1.0, -0.04 removes all points on the floor. This speeds up collision monitor
+    # see AMRNAV-4415 for context, to be removed with AMRNAV-4420
+    planes: [1.0, 0.0, 0.0, -1.66, 0.0, 0.0, 1.0, -0.04] # At least 1 plane (4 parameters) is mandatory

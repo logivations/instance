@@ -1,0 +1,5 @@
+/**:
+  fork_controller:
+    ros__parameters:
+      fork_joint_name: forks_lift_joint # Name of fork joint in URDF
+      tolerance: 0.05 # accepted height tolerance

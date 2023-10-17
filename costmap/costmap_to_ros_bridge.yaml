@@ -1,0 +1,4 @@
+/**:
+  costmap_to_ros_bridge:
+    ros__parameters:
+      full_map_update_interval: 30 # every n seconds, get the full map
