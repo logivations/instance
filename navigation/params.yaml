@@ -5,7 +5,8 @@
         obstacle_layer:
           forward_lidar:
             obstacle_max_range: 4.0
-            raytrace_max_range: 4.0
+          backward_lidar:
+            obstacle_max_range: 4.0
 
   global_costmap:
     global_costmap:
@@ -13,7 +14,6 @@
         obstacle_layer:
           forward_lidar_marking:
             obstacle_max_range: 4.0
-            raytrace_max_range: 4.0
           forward_lidar_clearing:
             obstacle_max_range: 4.0
-            raytrace_max_range: 4.0
+
