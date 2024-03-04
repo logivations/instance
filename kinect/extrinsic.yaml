@@ -1,10 +1,10 @@
 
 kinect:
-  x: 0.009826
+  x: 0.015264
   y: 0.0
-  z: -0.013821
+  z: -0.021494
   roll: 0.0
-  pitch: 0.023136
+  pitch: 0.045889
   yaw: 0.0
   mount_height: 0.78
   mount_pitch: 0.62
