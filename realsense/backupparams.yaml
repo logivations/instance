@@ -1,0 +1,12 @@
+/**:
+  realsense_right:
+    realsense_right:
+      ros__parameters:
+        camera_name: "realsense_right"
+#        usb_port_id: "2-4.4.1"
+
+  realsense_left:
+    realsense_left:
+      ros__parameters:
+        camera_name: "realsense_left"
+#        usb_port_id: "2-4.4.2"

@@ -1,0 +1,4 @@
+/**:
+  pallet_transportation_action_servers:
+    racks_for_staged_pickup: [8301,8302,8303,8304,8305]
+    lift_height_for_staged_pickup: 0.06
