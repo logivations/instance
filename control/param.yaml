@@ -3,6 +3,7 @@
     max_fork_height: 0.3 # from ground to fork bottom
     fork_lifted_threshold_m: 0.15 # from ground to fork bottom
     max_fork_height_voltage: 983 # When the fork is lowest
+    empty_fork_lifted_threshold_m: 0.14 # from ground to fork bottom
     min_fork_height_voltage: 126 # When the fork is highest
     homing_interval: 3600 # seconds after which the steering controller is homed
 
