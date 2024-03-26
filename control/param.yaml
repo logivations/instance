@@ -3,4 +3,5 @@
     max_fork_height: 0.3
     fork_lifted_threshold_m: 0.15
     min_fork_height_voltage: 119
+    empty_fork_lifted_threshold_m: 0.14 # from ground to fork bottom
     max_fork_height_voltage: 979
