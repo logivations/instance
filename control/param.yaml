@@ -3,6 +3,7 @@
   ros__parameters:
     max_fork_height: 0.3 # from ground to fork bottom
     fork_lifted_threshold_m: 0.18 # from ground to fork bottom
+    empty_fork_lifted_threshold_m: 0.14 # from ground to fork bottom
     max_fork_height_voltage: 853  # When the fork is lowest
     min_fork_height_voltage: 513 # When the fork is highest
     lift_ground_threshold: 0.02 # fork on ground level threshold
